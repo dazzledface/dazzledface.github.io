@@ -1,0 +1,9 @@
+body {
+  background-color: aquamarine;
+}
+
+.btn btn-group {
+  background-color: rebeccapurple;
+  border: 3px solid aquamarine;
+  border-radius: 10px;
+}
